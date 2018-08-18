@@ -1,1 +1,1 @@
-## [Contact Manager Redux](https://contact-manager.netlify.com/)
+## [Contact Manager - Redux](https://contact-manager.netlify.com/)
